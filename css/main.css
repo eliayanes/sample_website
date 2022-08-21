@@ -1,6 +1,54 @@
 .nav-spacing {
         margin: 0 0 0 10px;
       }
+
 .nav-menu {
         text-align: right;
+        text-decoration: none;
       }
+
+.image-link {
+
+  text-decoration: none;
+
+}
+.heading-red-color {
+   text-align: center;
+   color: #ff0000;
+}
+
+
+.book-report-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+.sperm-whale-img {
+  display: block;
+  margin: 0 auto;
+}
+
+.quote {
+width: 500px;
+margin: 20px auto;
+padding: 30px;
+background-color: #fafafa;
+}
+
+.bookcover {
+  float: left;
+  display: block;
+  margin: 0 auto;
+}
+
+.blockquote {
+  font-style: italic;
+  font-size: 20px;
+  color: #ccc"
+}
+
+.span-ishmael{
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+}
